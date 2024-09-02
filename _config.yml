@@ -24,9 +24,9 @@ author:
   avatar           : "1.png"
   name             : "aaaaaauv"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : "自是息上人"
   location         : "American California"
-  employer         : "Fuzhou University"
+  employer         : #"Fuzhou University"
   uri              : # URL
   email            : "none@example.org" 
 
