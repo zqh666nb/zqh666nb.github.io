@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-一个小人物
+一个小人物,来自[福州大学](https://www.fzu.edu.cn/)
