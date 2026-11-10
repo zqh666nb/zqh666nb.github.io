@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "aaaaaauv"
+title                    : "Kinghui"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "1.png"
-  name             : "Qinghui Zeng"
+  name             : "Qing hui Zeng"
   pronouns         : # example: "she/her"  
   bio              : "没招了"
-  email            : "zqhnb6661@gmail.com"
-  location         : "American California"
+  email            : "2601027038@fzu.edu.cn"
+  location         : "China"
   employer         : #"Fuzhou University"
   uri              : # URL
   email            : #"none@example.org" 
